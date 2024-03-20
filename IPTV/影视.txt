@@ -1,0 +1,82 @@
+#EXTINF:-1,许氏三杰
+http://cfss.cc/cdn/hy/11602033.flv
+#EXTINF:-1,许冠英
+http://cfss.cc/cdn/hy/11601972.flv
+#EXTINF:-1,五福星
+http://cfss.cc/cdn/hy/11282233.flv
+#EXTINF:-1,周星驰
+http://cfss.cc/cdn/hy/11342412.flv
+#EXTINF:-1,成龙
+http://cfss.cc/cdn/hy/11342386.flv
+#EXTINF:-1,周润发
+http://cfss.cc/cdn/hy/11342387.flv
+#EXTINF:-1,李连杰
+http://cfss.cc/cdn/hy/11342390.flv
+#EXTINF:-1,邱淑贞
+http://cfss.cc/cdn/hy/11352949.flv
+#EXTINF:-1,刘德华
+http://cfss.cc/cdn/hy/11342424.flv
+#EXTINF:-1,林正英
+http://cfss.cc/cdn/hy/11342421.flv
+#EXTINF:-1,徐峥
+http://cfss.cc/cdn/hy/11602043.flv
+#EXTINF:-1,沈腾
+http://cfss.cc/cdn/hy/11601968.flv
+#EXTINF:-1,古天乐
+http://cfss.cc/cdn/hy/11602041.flv
+#EXTINF:-1,洪金宝
+http://cfss.cc/cdn/hy/11279251.flv
+#EXTINF:-1,徐克
+http://cfss.cc/cdn/hy/11352909.flv
+#EXTINF:-1,黄渤
+http://cfss.cc/cdn/hy/11352876.flv
+#EXTINF:-1,斗罗大陆
+http://cfss.cc/cdn/hy/11352906.flv
+#EXTINF:-1 tvg-id="埋堆堆" tvg-name="封神榜" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/埋堆堆.png" group-title="🎥 影視•港劇",封神榜
+http://cfss.cc/cdn/hy/23749096.flv
+#EXTINF:-1 tvg-id="埋堆堆" tvg-name="西游记•张卫健版 Ⅰ" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/埋堆堆.png" group-title="🎥 影視•港劇",西游记•张卫健版 Ⅰ
+http://cfss.cc/cdn/hy/23735126.flv
+#EXTINF:-1 tvg-id="埋堆堆" tvg-name="西游记•张卫健版 Ⅱ" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/埋堆堆.png" group-title="🎥 影視•港劇",西游记•张卫健版 Ⅱ
+http://cfss.cc/cdn/hy/23728660.flv
+#EXTINF:-1 tvg-id="埋堆堆" tvg-name="楚汉骄雄" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/埋堆堆.png" group-title="🎥 影視•港劇",楚汉骄雄
+http://cfss.cc/cdn/hy/23740156.flv
+#EXTINF:-1 tvg-id="埋堆堆" tvg-name="鹿鼎记•陈小春" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/埋堆堆.png" group-title="🎥 影視•港劇",鹿鼎记•陈小春
+http://cfss.cc/cdn/hy/23865080.flv
+#EXTINF:-1 tvg-id="埋堆堆" tvg-name="鹿鼎记•梁朝伟" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/埋堆堆.png" group-title="🎥 影視•港劇",鹿鼎记•梁朝伟
+http://cfss.cc/cdn/hy/23734183.flv
+#EXTINF:-1 tvg-id="埋堆堆" tvg-name="天龙八部•1997" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/埋堆堆.png" group-title="🎥 影視•港劇",天龙八部•1997
+http://cfss.cc/cdn/hy/23903123.flv
+#EXTINF:-1 tvg-id="埋堆堆" tvg-name="埋堆堆" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/埋堆堆.png" group-title="🎥 影視•港劇",刑事侦缉档案
+http://cfss.cc/cdn/hy/23734169.flv
+#EXTINF:-1 tvg-id="埋堆堆" tvg-name="寻秦记" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/埋堆堆.png" group-title="🎥 影視•港劇",寻秦记
+http://cfss.cc/cdn/hy/23864973.flv
+#EXTINF:-1 tvg-id="埋堆堆" tvg-name="法证先锋" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/埋堆堆.png" group-title="🎥 影視•港劇",法证先锋
+http://cfss.cc/cdn/hy/23863804.flv
+#EXTINF:-1 tvg-id="埋堆堆" tvg-name="陀枪师姐" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/埋堆堆.png" group-title="🎥 影視•港劇",陀枪师姐
+http://cfss.cc/cdn/hy/23860039.flv
+#EXTINF:-1 tvg-id="埋堆堆" tvg-name="笑傲江湖•吕颂贤" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/埋堆堆.png" group-title="🎥 影視•港劇",笑傲江湖•吕颂贤
+http://cfss.cc/cdn/hy/23865142.flv
+#EXTINF:-1 tvg-id="埋堆堆" tvg-name="洗冤录" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/埋堆堆.png" group-title="🎥 影視•港劇",洗冤录
+http://cfss.cc/cdn/hy/23903130.flv
+#EXTINF:-1 tvg-id="埋堆堆" tvg-name="倚天屠龙记•吴启华" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/埋堆堆.png" group-title="🎥 影視•港劇",倚天屠龙记•吴启华
+http://cfss.cc/cdn/hy/23734246.flv
+#EXTINF:-1 tvg-id="埋堆堆" tvg-name="神雕侠侣•古天乐" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/埋堆堆.png" group-title="🎥 影視•港劇",神雕侠侣•古天乐
+http://cfss.cc/cdn/hy/23865171.flv
+#EXTINF:-1 tvg-id="埋堆堆" tvg-name="鉴证实录" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/埋堆堆.png" group-title="🎥 影視•港劇",鉴证实录
+http://cfss.cc/cdn/hy/23903183.flv
+#EXTINF:-1 tvg-id="埋堆堆" tvg-name="创世纪" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/埋堆堆.png" group-title="🎥 影視•港劇",创世纪
+http://cfss.cc/cdn/hy/23749083.flv
+#EXTINF:-1 tvg-id="埋堆堆" tvg-name="使徒行者" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/埋堆堆.png" group-title="🎥 影視•港劇",使徒行者
+http://cfss.cc/cdn/hy/23734256.flv
+#EXTINF:-1 tvg-id="埋堆堆" tvg-name="金枝欲孽" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/埋堆堆.png" group-title="🎥 影視•港劇",金枝欲孽
+http://cfss.cc/cdn/hy/23865036.flv
+#EXTINF:-1 tvg-id="埋堆堆" tvg-name="大唐双龙传" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/埋堆堆.png" group-title="🎥 影視•港劇",大唐双龙传
+http://cfss.cc/cdn/hy/23728674.flv
+#EXTINF:-1 tvg-id="埋堆堆" tvg-name="妙手仁心" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/埋堆堆.png" group-title="🎥 影視•港劇",妙手仁心
+http://cfss.cc/cdn/hy/23829543.flv
+#EXTINF:-1 tvg-id="埋堆堆" tvg-name="扫黄先锋" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/埋堆堆.png" group-title="🎥 影視•港劇",扫黄先锋
+http://cfss.cc/cdn/hy/23903196.flv
+#EXTINF:-1 tvg-id="埋堆堆" tvg-name="笑看风云" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/埋堆堆.png" group-title="🎥 影視•港劇",笑看风云
+http://cfss.cc/cdn/hy/23865058.flv
+#EXTINF:-1 tvg-id="埋堆堆" tvg-name="大时代" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/埋堆堆.png" group-title="🎥 影視•港劇",大时代
+http://cfss.cc/cdn/hy/23865161.flv
